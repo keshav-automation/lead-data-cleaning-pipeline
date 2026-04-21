@@ -23,7 +23,7 @@ This pipeline cleans everything automatically in seconds.
 Input:
     "Raw leads Excel from Google Maps scraper"
 ### All Cleaned Leads
-![All Cleaned Leads](image/All_Clean_Leads.png)
+![All Cleaned Leads](image/All_Cleaned_Leads.png)
 ### 🔥 Hot Leads Only
 ![Hot Leads](image/Hot_Leads.png)
 ### 📊 Summary Sheet
